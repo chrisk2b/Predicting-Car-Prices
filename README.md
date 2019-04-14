@@ -4,7 +4,7 @@
 This repository contains the results of the Data Science Nanodegree "Write a Data Science Blog Post" Project. Its’s purpose is to give the reviewers access to the code. 
 
 # Overview 
-This repository contains the technical aspects of Data Science Nanodegree "Write a Data Science Blog Post" Project. A non-technical summary can be found here XXX.
+This repository contains the technical aspects of Data Science Nanodegree "Write a Data Science Blog Post" Project. A non-technical summary can be found in a [blog post](https://medium.com/@christophberns/using-crisp-dm-to-predict-car-prices-f15eb5b14025).
 The project applies the CRISP-DM process to the problem of predicting car prices based on certain attributes of cars.
 
 # Files in the Repository
